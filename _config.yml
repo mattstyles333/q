@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 baseurl: 
-url: https://q-ia.org
+url: http://www.invisibleknight.ga/
 theme_settings:
   title: Type Theme
   avatar: assets/img/avatar.png
